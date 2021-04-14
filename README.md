@@ -13,20 +13,18 @@ Users will be able to view the registered guides and selection of appropriate gu
 Information provided with guides can be used for contact with the respective guides.
 Profile customisation are provided for additional editing.
 
-Home Page
+<b>Home Page</b>
 <p>For users, major locations are listed</p>
 
-Database 
+<b>Database</b>
 <p>Guide and User information is stored in Firebase.
 View guides dashboard and profile acquires data from our Firebase.</p>
 
 # Technologies Used
-Framework: 
+<b>Framework:</b>
 Flutter and Dart
-
-Database: 
-Firebase
+Database: Firebase
 
 # Software's Used
-Android Studio 
+<p>Android Studio</p>
 Microsoft Visual Studio Code
