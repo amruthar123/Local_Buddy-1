@@ -1,6 +1,9 @@
 # Local_Buddy
 
 Local Buddy is an android application used to find suitable travel guides.
+# ABOUT :
+Tours have always been an escape from reality, to take our time off of our work and to have a good time. A Tour Guide plays a crucial part in our trip and it was always been a trouble finding a guide of our liking. So, Our team came up with an idea of a tour guide finder application to make this job easier and make our trips wholesome and risk free.
+![16602711](https://user-images.githubusercontent.com/82514042/114749725-d9265c80-9d70-11eb-95eb-95d245c0760b.jpg)
 
 App Functionality
 User registration involves providing an username, password, phone number.
@@ -15,3 +18,16 @@ For users, major locations are listed
 Database 
 Guide and User information is stored in Firebase.
 View guides dashboard and profile acquires data from our Firebase.
+
+# Technologies Used
+Framework: 
+Flutter and Dart
+
+Database: 
+Firebase
+
+# Software's Used
+
+Android Studio 
+
+Microsoft Visual Studio Code
