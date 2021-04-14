@@ -1,4 +1,4 @@
-# Local_Buddy
+# Local Buddy
 
 Local Buddy is an android application used to find suitable travel guides.
 # ABOUT :
