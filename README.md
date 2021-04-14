@@ -21,8 +21,8 @@ Profile customisation are provided for additional editing.
 View guides dashboard and profile acquires data from our Firebase.</p>
 
 # Technologies Used
-<b>Framework:</b>
-<p>Flutter and Dart</p>
+<b><p>Framework:</b>
+Flutter and Dart</p>
 <b>Database:</b>Firebase
 
 # Software's Used
