@@ -14,7 +14,7 @@ Information provided with guides can be used for contact with the respective gui
 Profile customisation are provided for additional editing.
 
 Home Page
-For users, major locations are listed
+<p>For users, major locations are listed</p>
 
 Database 
 Guide and User information is stored in Firebase.
