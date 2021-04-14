@@ -17,8 +17,8 @@ Home Page
 <p>For users, major locations are listed</p>
 
 Database 
-Guide and User information is stored in Firebase.
-View guides dashboard and profile acquires data from our Firebase.
+<p>Guide and User information is stored in Firebase.
+View guides dashboard and profile acquires data from our Firebase.</p>
 
 # Technologies Used
 Framework: 
@@ -28,7 +28,5 @@ Database:
 Firebase
 
 # Software's Used
-
 Android Studio 
-
 Microsoft Visual Studio Code
