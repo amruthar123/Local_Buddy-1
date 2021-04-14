@@ -22,8 +22,8 @@ View guides dashboard and profile acquires data from our Firebase.</p>
 
 # Technologies Used
 <b>Framework:</b>
-Flutter and Dart
-Database: Firebase
+<p>Flutter and Dart</p>
+<b>Database:</b>Firebase
 
 # Software's Used
 <p>Android Studio</p>
